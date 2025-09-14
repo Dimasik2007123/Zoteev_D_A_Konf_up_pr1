@@ -9,8 +9,6 @@ import tkinter as tk
 from tkinter import *
 import os
 from datetime import datetime
-#import time
-#import sys
 import platform
 from zipfile import ZipFile
 def get_names():
@@ -219,4 +217,5 @@ if __name__ == "__main__":
     
     root = tk.Tk()
     emulator = Emulator(root, vfs = args.vfs, start_scr=args.script)
+
     root.mainloop()
