@@ -4,7 +4,6 @@ Created on Tue Sep  9 06:42:38 2025
 
 @author: zdima
 """
-
 import tkinter as tk
 from tkinter import *
 import os
@@ -121,4 +120,5 @@ if __name__ == "__main__":
     
     root = tk.Tk()
     emulator = Emulator(root, vfs = args.vfs, start_scr=args.script)
+
     root.mainloop()
