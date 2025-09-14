@@ -74,4 +74,3 @@ if __name__ == "__main__":
     root = tk.Tk()
     emulator = Emulator(root)
     root.mainloop()
-
