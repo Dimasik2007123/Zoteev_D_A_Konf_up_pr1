@@ -18,4 +18,5 @@ rm - удаление файла или директории
 ./scripts/test_vfs2.sh
 ```
 # Результаты работы
-
+![image](https://github.com/Dimasik2007123/Zoteev_D_A_Konf_up_pr1/blob/main/Скрин%202.png)
+![image](https://github.com/Dimasik2007123/Zoteev_D_A_Konf_up_pr1/blob/main/Скрин1.png)
